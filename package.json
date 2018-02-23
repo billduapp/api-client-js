@@ -1,0 +1,19 @@
+{
+  "name": "billdu-client",
+  "version": "1.0.0",
+  "description": "Billdu api client gor node.js and browser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billduapp/api-client-js"
+  },
+  "author": "Martin Bazik <martin@bazo.sk>",
+  "license": "GPL-3.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["billdu", "api"],
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
